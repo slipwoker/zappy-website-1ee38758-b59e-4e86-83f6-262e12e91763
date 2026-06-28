@@ -1,0 +1,89 @@
+# עורכת דיין מיטל גולדשטיין — Generative Engine Optimization Map
+
+> An experienced female lawyer specializing in real estate, inheritances, divorces, and contracts. She has been practicing law for several years and is known as a reliable and professional attorney. The website should convey trust, professionalism, and approachability, with a classic legal identity represented by scales of justice imagery.
+
+---
+
+## Pages
+
+### בית
+https://-1ee38758.zappy5.app
+מחפשים שירותי משפט מקדימים או ייעוץ ראשוני ללא עלות? עורכת דיין מיטל גולדשטיין מציעה ליווי מקצועי במקרקעין, ירושות, גירושין וחוזים. פנו עוד היום לתיאום פגישה.
+
+### תחומי עיסוק
+https://-1ee38758.zappy5.app/practice-areas
+מגירושין ועד חוזים מורכבים: גלו את תחומי העיסוק של עורכת דיין מיטל גולדשטיין. שירותי משפט מקדימים, ייעוץ ירושות ומקרקעין, והכוונה קהילתית נגישה. התחילו לפתור את הסוגיה שלכם עכשיו.
+
+### אודות
+https://-1ee38758.zappy5.app/about
+עורכת דיין מיטל גולדשטיין מביאה ניסיון עשיר בדיני מקרקעין, ירושות ומשפחה. גלו למה לקוחות בוטחים בה לפתרון אמין ונגיש, כולל אפשרויות לשירותים משפטיים מוזלים. צרו קשר עוד היום.
+
+### צור קשר
+https://-1ee38758.zappy5.app/contact
+אל תתמודדו לבד. צרו קשר עם עורכת דיין מיטל גולדשטיין לשיחת ייעוץ ראשונית. בין אם אתם זקוקים לשירותי משפט מקדימים או הכוונה קהילתית לענייני ירושה, אנחנו כאן בשבילכם. השאירו פרטים עכשיו.
+
+### תודה על פנייתך
+https://-1ee38758.zappy5.app/thank-you
+עורכת דיין מיטל גולדשטיין - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1ee38758.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1ee38758.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1ee38758.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-1ee38758.zappy5.app/contact
+- Endpoint: https://-1ee38758.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עורכת דיין מיטל גולדשטיין
+An experienced female lawyer specializing in real estate, inheritances, divorces, and contracts. She has been practicing law for several years and is known as a reliable and professional attorney. The website should convey trust, professionalism, and approachability, with a classic legal identity represented by scales of justice imagery.
+
+## Services/Products
+- מקרקעין
+- ירושות
+- גירושין
+- חוזים
+
+## Target Audience
+- לקוחות הזקוקים לשירותי עריכת דין בתחומי מקרקעין, ירושות, גירושין וחוזים
+- בעלי נכסים
+- מתכנני ירושה
+- זוגות בהליכי גירושין
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1ee38758.zappy5.app/sitemap.xml
+- Robots: https://-1ee38758.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1ee38758.zappy5.app/llms-full.txt
